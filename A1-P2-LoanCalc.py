@@ -3,6 +3,11 @@
 
 def main():
     # YOUR CODE STARTS HERE, each line must be indented (one tab)
+    """
+Student Name:    Mathew Akunyili
+Program Title:  Weekly loan Calculator
+Description:    calculate the weekly payement somone would pay after taking a loan
+"""
 
     #declare variables
     #This section declare the variables
